@@ -1,0 +1,7 @@
+.container-img {
+    background-image: url('../../../../public/assets/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    @apply max-h-screen;
+}
